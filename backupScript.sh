@@ -1,4 +1,9 @@
 #!/bin/bash
+#Purpose = Backup of Important Data
+#Created on 10-02-2017
+#Author = Smruti Ranjan
+#Version 1.0
+#START
  
 app_name=   XYZ      # your App name 
 backup_dir=/home/smruti/allBackups	
